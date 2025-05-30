@@ -20,7 +20,6 @@ Displays upcoming English Premier League matches using TheSportsDB API.
 ## Notes
 - The backend runs on `http://localhost:3000`.
 - The frontend fetches data from the backend and displays matches in a clean, card-based layout.
-=======
 # Soccer Matches Web App
 
 Displays upcoming English Premier League matches using TheSportsDB API.
