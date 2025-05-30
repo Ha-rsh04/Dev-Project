@@ -14,7 +14,7 @@ Displays upcoming English Premier League matches using TheSportsDB API.
    - Ensure the backend server is running to fetch data.
 
 3. **API Used**:
-   - Endpoint: https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php?id=4328
+   - Endpoint: [https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php?id=4328](https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php?id=4328)
    - Returns past matches for the English Premier League.
 
 ## Notes
@@ -36,7 +36,7 @@ Displays past English Premier League matches using TheSportsDB API.
    - Ensure the backend server is running to fetch data.
 
 3. **API Used**:
-   - Endpoint: https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php?id=4328
+   - Endpoint: [https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php?id=4328](https://www.thesportsdb.com/api/v1/json/3/eventspastleague.php?id=4328)
    - Returns upcoming matches for the English Premier League.
 
 ## Notes
