@@ -1,6 +1,6 @@
 # Soccer Matches Web App
 
-Displays upcoming English Premier League matches using TheSportsDB API.
+Displays recent English Premier League matches using TheSportsDB API.
 
 ## Setup Instructions
 
