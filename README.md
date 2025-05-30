@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Soccer Matches Web App
 
 Displays upcoming English Premier League matches using TheSportsDB API.
