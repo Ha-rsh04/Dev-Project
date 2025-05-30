@@ -15,14 +15,14 @@ Displays upcoming English Premier League matches using TheSportsDB API.
 
 3. **API Used**:
    - Endpoint: https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php?id=4328
-   - Returns upcoming matches for the English Premier League.
+   - Returns past matches for the English Premier League.
 
 ## Notes
 - The backend runs on `http://localhost:3000`.
 - The frontend fetches data from the backend and displays matches in a clean, card-based layout.
 # Soccer Matches Web App
 
-Displays upcoming English Premier League matches using TheSportsDB API.
+Displays past English Premier League matches using TheSportsDB API.
 
 ## Setup Instructions
 
