@@ -43,5 +43,4 @@ Displays upcoming English Premier League matches using TheSportsDB API.
 ## Notes
 - The backend runs on `http://localhost:3000`.
 - The frontend fetches data from the backend and displays matches in a clean, card-based layout.
->>>>>>> 3c856e4f2ebf05852bd393309b7d674e508b0b61
 - Dates and times are converted from UTC to the user's local time.
