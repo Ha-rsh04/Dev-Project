@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     font-family: Arial, sans-serif;
 }
@@ -6,4 +7,14 @@ body {
     border-radius: 8px;
     padding: 1rem;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+=======
+body {
+    font-family: Arial, sans-serif;
+}
+.match-card {
+    background: white;
+    border-radius: 8px;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+>>>>>>> 3c856e4f2ebf05852bd393309b7d674e508b0b61
 }
